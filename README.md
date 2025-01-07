@@ -4,9 +4,10 @@
 
 I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy of Information Technology. Passionate about building user-friendly applications, exploring cutting-edge technologies, and solving real-world problems through code. Depending on my mood I alter between front-end and back-end. I also dabble in some AI to not fall behind the trend.
 
+---
+
 ### Languages and Tools
 
-<br>
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />     
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -20,7 +21,6 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
 <img align="left" alt="Arch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<br/>
           
           
           
