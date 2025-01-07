@@ -5,3 +5,6 @@
 I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy of Information Technology. Passionate about building user-friendly applications, exploring cutting-edge technologies, and solving real-world problems through code. Depending on my mood I alter between front-end and back-end. I also dabble in some AI to not fall behind the trend.
 
 ### Languages and Tools
+
+<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
