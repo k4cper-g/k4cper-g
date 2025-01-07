@@ -6,7 +6,7 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
 
 ---
 
-### Languages and Tools
+### 🔧 Languages and Tools
 
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />     
