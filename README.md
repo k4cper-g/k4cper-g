@@ -1,6 +1,6 @@
 ## 🚀 Kacper Gadomski
 
-**`k4cper-g/k4cper-g`**
+**`Software Engineer / Student`**
 
 Here are some ideas to get you started:
 
