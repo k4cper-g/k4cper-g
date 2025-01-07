@@ -1,6 +1,6 @@
 ![img](https://i.imgur.com/rtlSYPr.png)
 
-## 🚀 Kacper Gadomski
+## 🚀 About me
 
 **`Software Engineer / Student`**
 
