@@ -35,10 +35,5 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
 
 ### 📱 Socials
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)
+
