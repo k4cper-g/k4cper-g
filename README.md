@@ -23,7 +23,7 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br />
 
-## Stats
+### 📊 Stats
 
 ![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4cper-g&show_icons=true&theme=dark)
           
