@@ -1,3 +1,5 @@
+![alt text](https://imgur.com/a/nP43wZI)
+
 ## 🚀 Kacper Gadomski
 
 **`Software Engineer / Student`**
