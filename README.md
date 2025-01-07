@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/XX81ckD)
+[Imgur](https://imgur.com/XX81ckD)
 
 ## 🚀 Kacper Gadomski
 
