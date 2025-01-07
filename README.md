@@ -35,6 +35,8 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
 
 ### 📱 Socials
 
+https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/example.svg
+
 ![large-colored-discord](large/colored/discord.svg)
 ![large-colored-dribbble](large/colored/dribbble.svg)
 ![large-colored-facebook](large/colored/facebook.svg)
