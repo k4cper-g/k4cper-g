@@ -35,5 +35,24 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
 
 ### 📱 Socials
 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:user)
+![large-colored-discord](large/colored/discord.svg)
+![large-colored-dribbble](large/colored/dribbble.svg)
+![large-colored-facebook](large/colored/facebook.svg)
+![large-colored-github](large/colored/github.svg)
+![large-colored-gitlab](large/colored/gitlab.svg)
+![large-colored-instagram](large/colored/instagram.svg)
+![large-colored-linkedin](large/colored/linkedin.svg)
+![large-colored-large](large/colored/medium.svg)
+![large-colored-messenger](large/colored/messenger.svg)
+![large-colored-pinterest](large/colored/pinterest.svg)
+![large-colored-quora](large/colored/quora.svg)
+![large-colored-reddit](large/colored/reddit.svg)
+![large-colored-skype](large/colored/skype.svg)
+![large-colored-spotify](large/colored/spotify.svg)
+![large-colored-telegram](large/colored/telegram.svg)
+![large-colored-tiktok](large/colored/tiktok.svg)
+![large-colored-twitch](large/colored/twitch.svg)
+![large-colored-twitter](large/colored/twitter.svg)
+![large-colored-twitter-x](large/colored/twitter-x.svg)
+![large-colored-youtube](large/colored/youtube.svg)
 
