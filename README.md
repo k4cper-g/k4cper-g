@@ -37,9 +37,9 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
 
 https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/example.svg
 
-![large-colored-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg)
-![large-colored-github](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg)
-![large-colored-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)
-![large-colored-telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/telegram.svg)
-![large-colored-twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter.svg)
+![large-colored-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg)
+![large-colored-github](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/github.svg)
+![large-colored-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg)
+![large-colored-telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/telegram.svg)
+![large-colored-twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter.svg)
 
