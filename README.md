@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_
 ![large-colored-github](large/colored/github.svg)
 ![large-colored-gitlab](large/colored/gitlab.svg)
 ![large-colored-instagram](large/colored/instagram.svg)
-![large-colored-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/large/colored/linkedin.svg)
+![large-colored-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)
 ![large-colored-large](large/colored/medium.svg)
 ![large-colored-messenger](large/colored/messenger.svg)
 ![large-colored-pinterest](large/colored/pinterest.svg)
