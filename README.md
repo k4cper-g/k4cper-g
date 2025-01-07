@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🚀 Kacper Gadomski
 
 <!--
 **k4cper-g/k4cper-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
