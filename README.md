@@ -34,3 +34,7 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
 #
 
 ### 📱 Socials
+
+<a>
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
