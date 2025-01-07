@@ -37,24 +37,9 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
 
 https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_folder/example.svg
 
-![large-colored-discord](large/colored/discord.svg)
-![large-colored-dribbble](large/colored/dribbble.svg)
-![large-colored-facebook](large/colored/facebook.svg)
-![large-colored-github](large/colored/github.svg)
-![large-colored-gitlab](large/colored/gitlab.svg)
-![large-colored-instagram](large/colored/instagram.svg)
+![large-colored-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/discord.svg)
+![large-colored-github](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/github.svg)
 ![large-colored-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg)
-![large-colored-large](large/colored/medium.svg)
-![large-colored-messenger](large/colored/messenger.svg)
-![large-colored-pinterest](large/colored/pinterest.svg)
-![large-colored-quora](large/colored/quora.svg)
-![large-colored-reddit](large/colored/reddit.svg)
-![large-colored-skype](large/colored/skype.svg)
-![large-colored-spotify](large/colored/spotify.svg)
-![large-colored-telegram](large/colored/telegram.svg)
-![large-colored-tiktok](large/colored/tiktok.svg)
-![large-colored-twitch](large/colored/twitch.svg)
-![large-colored-twitter](large/colored/twitter.svg)
-![large-colored-twitter-x](large/colored/twitter-x.svg)
-![large-colored-youtube](large/colored/youtube.svg)
+![large-colored-telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/telegram.svg)
+![large-colored-twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/twitter.svg)
 
