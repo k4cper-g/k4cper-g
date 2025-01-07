@@ -31,7 +31,7 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
 
 #
 
-### 📬 Contact
+### 📱 Socials
 
 <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
