@@ -29,7 +29,7 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
           
 ### BLIB
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4cper-g)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k4cper-g&hide=jupyter,html)
           
 
           
