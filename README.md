@@ -26,7 +26,8 @@ I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy
 ### 📊 Stats
 
 ![Kacper's GitHub stats](https://github-readme-stats.vercel.app/api?username=k4cper-g&show_icons=true&theme=dark)
-          
+
+#
           
 ### BLIB
 
