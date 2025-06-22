@@ -4,7 +4,7 @@
 
 **`Engineer / Student`**
 
-I'm an Engineer and a student at the Polish-Japanese Academy of Information Technology. Passionate about building user-friendly applications, exploring cutting-edge technologies, and solving real-world problems through code. Depending on my mood I alter between front-end and back-end. I love to tinker with AI (get it?) so catch my on huggingface :) 
+I'm an Engineer and a student at the Polish-Japanese Academy of Information Technology. Passionate about building user-friendly applications, exploring cutting-edge technologies, and solving real-world problems through code. Depending on my mood I alter between front-end and back-end. I love to tinker with AI and that's what I focus on.
 
 ---
 
