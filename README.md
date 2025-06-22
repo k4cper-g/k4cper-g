@@ -4,7 +4,7 @@
 
 **`Engineer / Student`**
 
-I'm an aspiring Full-Stack Engineer and a student at the Polish-Japanese Academy of Information Technology. Passionate about building user-friendly applications, exploring cutting-edge technologies, and solving real-world problems through code. Depending on my mood I alter between front-end and back-end. I also dabble in some AI to not fall behind the trend.
+I'm an Engineer and a student at the Polish-Japanese Academy of Information Technology. Passionate about building user-friendly applications, exploring cutting-edge technologies, and solving real-world problems through code. Depending on my mood I alter between front-end and back-end. I love to tinker with AI (get it?) so catch my on huggingface :) 
 
 ---
 
