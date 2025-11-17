@@ -11,7 +11,7 @@ Building the future of logistics automation with AI agents – making freight fo
 
 See how it works on [YouTube](https://www.youtube.com/watch?v=w3D9OG_hHVY)
 
-### Connect
+## Connect
 
 I’m always open to connect with like-minded professionals, exchange ideas, and explore new opportunities. Feel free to reach out!
 
