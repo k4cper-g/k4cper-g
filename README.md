@@ -4,8 +4,6 @@ Founder @ [Alterion](https://www.alterion.io) · Building AI agents for freight 
 
 Fellow @ [MD Fellowship](https://mdfellows.com/) · Poland's most prestigious fellowship for next-gen entrepreneurs.
 
-Currently studying Computer Science @ PJATK, Warsaw
-
 ---
 
 ### What I'm working on
@@ -18,4 +16,3 @@ Building the future of logistics automation with AI agents – making freight fo
 
 ---
 
-*Fellow @ MD Fellowship · Junior Application Support Engineer @ DXC Technology*
