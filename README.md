@@ -1,4 +1,4 @@
-# Hi, I'm Kacper 👋
+## Hi, I'm Kacper 👋
 
 Founder @ [Alterion](https://www.alterion.io) · Building AI agents for freight forwarding
 
