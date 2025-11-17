@@ -4,8 +4,6 @@ Founder @ [Alterion](https://www.alterion.io) · Building AI agents for freight 
 
 Fellow @ [MD Fellowship](https://mdfellows.com/) · Poland's most prestigious fellowship for next-gen entrepreneurs.
 
----
-
 ### What I'm working on
 
 Building the future of logistics automation with AI agents – making freight forwarding seamless for brokers and forwarders.
