@@ -10,6 +10,8 @@ Fellow @ [MD Fellowship](https://mdfellows.com/) · Poland's most prestigious fe
 
 Building the future of logistics automation with AI agents – making freight forwarding seamless for brokers and forwarders.
 
+Check out [Alterion](https://www.alterion.io)
+
 ### Connect
 
 [LinkedIn](https://www.linkedin.com/in/kacpergadomski) · [Email](mailto:k4cpergadomski@gmail.com)
