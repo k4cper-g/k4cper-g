@@ -18,4 +18,4 @@ I’m always open to connect with like-minded professionals, exchange ideas, and
 - Book a call · [cal.com/k4cper](https://cal.com/k4cper)
 - Reach via mail · k4cpergadomski@gmail.com
 - Follow on X · [x.com/k4cperg](https://x.com/k4cperg)
-
+- Connect on LinkedIn · [in/kacpergadomski](https://www.linkedin.com/in/kacpergadomski/)
