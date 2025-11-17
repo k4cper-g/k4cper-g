@@ -10,7 +10,7 @@ I'm a 22 year old Founder & Software Engineer based in Warsaw, Poland. Intereste
 
 Building the future of logistics automation with AI agents – making freight forwarding seamless for brokers and forwarders.
 
-Check us out on [YouTube](https://www.youtube.com/watch?v=w3D9OG_hHVY)
+See how it works on [YouTube](https://www.youtube.com/watch?v=w3D9OG_hHVY)
 
 ### Connect
 
