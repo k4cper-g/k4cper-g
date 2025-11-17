@@ -2,9 +2,9 @@
 
 I'm a 22 year old Founder & Software Engineer based in Warsaw, Poland. Interested in AI solutions for TSL.
 
-Founder @ [Alterion](https://www.alterion.io) · Building AI agents for freight forwarding
+- Founder @ [Alterion](https://www.alterion.io) · Building AI agents for freight forwarding
 
-Fellow @ [MD Fellowship](https://mdfellows.com/) · Poland's most prestigious fellowship for next-gen entrepreneurs.
+- Fellow @ [MD Fellowship](https://mdfellows.com/) · Poland's most prestigious fellowship for next-gen entrepreneurs.
 
 ## What I'm working on
 
