@@ -12,5 +12,3 @@ Building the future of logistics automation with AI agents – making freight fo
 
 [LinkedIn](https://www.linkedin.com/in/kacpergadomski) · [Email](mailto:k4cpergadomski@gmail.com)
 
----
-
