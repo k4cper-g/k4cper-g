@@ -14,5 +14,5 @@ Building the future of logistics automation with AI agents – making freight fo
 
 [LinkedIn](https://www.linkedin.com/in/kacpergadomski) · [Email](mailto:k4cpergadomski@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=rounded&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
 
