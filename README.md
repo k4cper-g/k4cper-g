@@ -1,6 +1,6 @@
 ## Hi, I'm Kacper 👋
 
-I'm a 22 year old Founder & Software Engineer based in Warsaw, Poland. Interested in AI solutions for logistics.
+I'm a 22 year old Founder & Software Engineer based in Warsaw, Poland. Interested in AI solutions for TSL.
 
 Founder @ [Alterion](https://www.alterion.io) · Building AI agents for freight forwarding
 
