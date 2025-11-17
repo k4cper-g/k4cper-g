@@ -17,5 +17,5 @@ I’m always open to connect with like-minded professionals, exchange ideas, and
 
 - Book a call https://cal.com/k4cper
 - Reach via mail k4cpergadomski@gmail.com
-
+- Follow on https://x.com/k4cperg
 
