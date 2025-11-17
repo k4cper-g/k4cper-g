@@ -1,6 +1,7 @@
 # Hi, I'm Kacper 👋
 
 Founder @ [Alterion](https://www.alterion.io) · Building AI agents for freight forwarding
+Fellow @ [MD Fellowship](https://mdfellows.com/) · Poland's most prestigious fellowship for next-gen entrepreneurs.
 
 Currently studying Computer Science @ PJATK, Warsaw
 
