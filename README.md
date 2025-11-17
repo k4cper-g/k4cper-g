@@ -15,7 +15,7 @@ See how it works on [YouTube](https://www.youtube.com/watch?v=w3D9OG_hHVY)
 
 I’m always open to connect with like-minded professionals, exchange ideas, and explore new opportunities. Feel free to reach out!
 
-- Book a call https://cal.com/k4cper
+- Book a call [cal.com/k4cper](https://cal.com/k4cper)
 - Reach via mail k4cpergadomski@gmail.com
-- Follow on https://x.com/k4cperg
+- Follow on X [@k4cperg](https://x.com/k4cperg)
 
