@@ -2,7 +2,7 @@
 
 I'm a 22 year old Founder & Software Engineer based in Warsaw, Poland. Interested in AI and it's uses for different industries.
 
-- Founder @ [Alterion](https://www.alterion.io) · Building AI agents for freight forwarding
+- Founder @ [Cargobloom](https://www.cargobloom.io) · Real-time freight market intelligence.
 - Fellow @ [MD Fellowship](https://mdfellows.com/) · Poland's most prestigious fellowship for next-gen entrepreneurs.
 
 ### What I'm working on
