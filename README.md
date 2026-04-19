@@ -2,7 +2,7 @@
 
 I'm a 22 year old Founder & Software Engineer based in Warsaw, Poland. Interested in AI and it's uses for different industries.
 
-- Founder @ [Cargobloom](https://www.cargobloom.io) · Data layer for logistics. 
+- Co-Founder @ [Cargobloom](https://www.cargobloom.io) · Data layer for logistics. 
 - Fellow @ [MD Fellowship](https://mdfellows.com/) · Poland's most prestigious fellowship for next-gen entrepreneurs.
 
 ### What I previously worked on
