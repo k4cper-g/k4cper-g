@@ -2,7 +2,7 @@
 
 I'm a 22 year old Founder & Software Engineer based in Warsaw, Poland. Interested in AI and it's uses for different industries.
 
-## What I previously worked on
+## Projects
 
 ### Agentic
 
@@ -14,7 +14,7 @@ I'm a 22 year old Founder & Software Engineer based in Warsaw, Poland. Intereste
 
 - 🍎 **[NEAT Catcher](https://github.com/k4cper-g/NEAT_fruit_catcher)** - AI learns how to play fruit catcher across generations using NEAT algorithm.
 - 🫀 **[Heart Disease](https://github.com/k4cper-g/heart_disease_pred)** - Classic heart disease prediction using Naive Bayes classifier.
-- 
+
 ### Connect
 
 I’m always open to connect with like-minded professionals, exchange ideas, and explore new opportunities. Feel free to reach out!
