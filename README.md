@@ -1,6 +1,6 @@
 ## Hi, I'm Kacper 👋
 
-I'm a 22 year old Software Engineer based in Warsaw, Poland.
+22 / Software Engineer / Warsaw <> SF
 
 Now Co-founder at **Talona**, building and researching AI agents.
 
