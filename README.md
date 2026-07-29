@@ -2,8 +2,6 @@
 
 I'm a 22 year old Founder & Software Engineer based in Warsaw, Poland. Interested in AI and it's uses for different industries.
 
-## Projects
-
 ### Agentic
 
 - 🧭 **[agent-ctrl](https://agent-ctrl.dev)** (65+ stars) - Desktop automation CLI for AI agents.
