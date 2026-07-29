@@ -21,7 +21,6 @@ Now Co-founder at **Talona**, building and researching AI agents.
 
 I’m always open to connect with like-minded professionals, exchange ideas, and explore new opportunities. Feel free to reach out!
 
-- Book a call · [cal.com/k4cper](https://cal.com/kacpergadomski)
-- Reach via mail · k4cpergadomski@gmail.com
-- Follow on X · [x.com/k4cperg](https://x.com/k4cperg)
-- Connect on LinkedIn · [in/kacpergadomski](https://www.linkedin.com/in/kacpergadomski/)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/k4cperg)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k4cpergadomski@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacpergadomski)
