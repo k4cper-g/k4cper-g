@@ -1,6 +1,6 @@
 ## Hi, I'm Kacper 👋
 
-**22 / Software Engineer / Warsaw <> SF**
+**22 | Software Engineer | Warsaw <> SF**
 
 Now Co-founder at **Talona**, building and researching AI agents.
 
