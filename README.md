@@ -6,7 +6,7 @@ Now Co-founder at **Talona**, building and researching AI agents.
 
 ## Projects
 
-### Agentic
+### Agent focused
 
 - 🧭 **[agent-ctrl](https://agent-ctrl.dev)** (65+ stars) - Desktop automation CLI for AI agents.
 - 📝 **[computeruseprotocol](https://computeruseprotocol.com)** (40+ stars) - Universal schema for AI agents to interact with any desktop UI.
