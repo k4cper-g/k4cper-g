@@ -2,7 +2,7 @@
 
 **22** / **Software Engineer** / **Warsaw <> SF**
 
-Now Co-founder at **Talona**, building and researching AI agents.
+Now Co-founder at **[Talona](https://talona.ai)**, building and researching AI agents.
 
 ## Projects
 
