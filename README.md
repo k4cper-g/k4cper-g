@@ -2,7 +2,7 @@
 
 I'm a 22 year old Software Engineer based in Warsaw, Poland.
 
-Currently Co-founder at **Talona**, building and researching AI agents.
+Now Co-founder at **Talona**, building and researching AI agents.
 
 ## Projects
 
